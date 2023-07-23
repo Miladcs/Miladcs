@@ -10,4 +10,6 @@
 [<img src="https://raw.githubusercontent.com/Miladcs/Miladcs/master/stuff/instagram.svg" height="40em" align="center" alt="Follow Milad on Instagram" title="Follow Milad on Instagram"/>](https://instagram.com/milads0l)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladcs&show_icons=true&locale=en&layout=compact" alt="miladcs" /></p>
+## Milad's stats
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Miladcs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Miladcs/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Miladcs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Miladcs/github-readme-stats#gh-light-mode-only)
